@@ -8,7 +8,7 @@ pip install ckanapi
 import pandas as pd
 from ckanapi import RemoteCKAN
 
-\#konfigurasi API CKAN
+#konfigurasi API CKAN
 CKAN\_URL = 'https://catalog.wri-indonesia.id/'
 CKAN\_API\_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI3MXVsMURqeXFmUExDODB3ZHlONi1BMjhxdWxTNFY2ckVRQ1EwM2J3VkM0IiwiaWF0IjoxNzUyNzc2NzEzfQ.jG1Kl1CfZ1izQGlROrd2WJhPuKORzv96YgQLb8TtSm0'
 
